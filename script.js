@@ -1,6 +1,8 @@
-const APIKEY='https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=ccf1dde896eb0898468f66cd3dedffd5&page=1';
-const IMG_PATH='https://image.tmdb.org/t/p/w500/';
-const SEARCHAPI="https://api.themoviedb.org/3/search/movie?&api_key=ccf1dde896eb0898468f66cd3dedffd5&query=";
+const APIKEY='';
+const IMG_PATH='';
+const SEARCHAPI="";
+
+//API can be generated from TMDB website.
 
 const main=document.getElementById("section");
 const form=document.getElementById("form");
